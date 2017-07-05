@@ -1,1 +1,2 @@
-# Website-Using-AJAX
+Mobile web page using AJAX
+testing the slide functions
