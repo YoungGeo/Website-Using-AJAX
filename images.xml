@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+	<image>
+		<title>New York</title>
+		<description>Situated on one of the world's largest natural harbors, New York City consists of five boroughs, each of which is a separate county of New York State</description>
+		<url>http://demos.jquerymobile.com/1.4.5/_assets/img/newyork.jpg</url>
+	</image>
+	<image>
+		<title>Buenos Aires</title>
+		<description>The city of Buenos Aires is located at the northeastern edge of the flat plain known as the Pampas, which occupies the agricultural heartland of Argentina</description>
+		<url>http://demos.jquerymobile.com/1.4.5/_assets/img/buenosaires.jpg</url>
+	</image>
+	<image>
+		<title>Paris</title>
+		<description>Paris is full of places to shop and eat. On one end of the Champs-Élysées is the Arc de Triomphe. The Notre Dame de Paris is a major Gothic cathedral. It is in "Île de la Cité"</description>
+		<url>http://demos.jquerymobile.com/1.4.5/_assets/img/paris.jpg</url>
+	</image>
+	<image>
+		<title>Capetown</title>
+		<description>is a coastal city in South Africa. It is the second-most populous urban area in South Africa after Johannesburg</description>
+		<url>http://demos.jquerymobile.com/1.4.5/_assets/img/capetown.jpg</url>
+	</image>
+
+</images>
